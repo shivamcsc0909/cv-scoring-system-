@@ -1,0 +1,23 @@
+2025-04-17 14:36:53 - INFO - CV Scoring System started
+2025-04-17 14:36:53 - INFO - Found 5 resume files to process
+2025-04-17 14:36:53 - INFO - Processing resume: cv1.pdf
+2025-04-17 14:36:53 - INFO - Successfully parsed resume for: Satyam Singh
+2025-04-17 14:36:53 - INFO - Resume scored: 16/100
+2025-04-17 14:36:56 - ERROR - Failed to send email: Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-73dbfa59176sm347276b3a.113 - gsmtp')
+2025-04-17 14:36:57 - INFO - Processing resume: cv2.docx
+2025-04-17 14:36:57 - INFO - Successfully parsed resume for: Babita
+2025-04-17 14:36:57 - INFO - Resume scored: 9/100
+2025-04-17 14:36:59 - ERROR - Failed to send email: Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-73dbf8bf79fsm362167b3a.21 - gsmtp')
+2025-04-17 14:37:00 - INFO - Processing resume: cv3.pdf
+2025-04-17 14:37:00 - INFO - Successfully parsed resume for: Shivam Pandey
+2025-04-17 14:37:00 - INFO - Resume scored: 14/100
+2025-04-17 14:37:02 - ERROR - Failed to send email: Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-73dbfae9a4csm343312b3a.161 - gsmtp')
+2025-04-17 14:37:03 - INFO - Processing resume: cv4.pdf
+2025-04-17 14:37:03 - INFO - Successfully parsed resume for: Vishwash Mishra
+2025-04-17 14:37:03 - INFO - Resume scored: 13/100
+2025-04-17 14:37:05 - ERROR - Failed to send email: Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-73dbf8e398asm371152b3a.52 - gsmtp')
+2025-04-17 14:37:06 - INFO - Processing resume: cv5.pdf
+2025-04-17 14:37:06 - INFO - Successfully parsed resume for: VIVEK
+2025-04-17 14:37:06 - INFO - Resume scored: 15/100
+2025-04-17 14:37:07 - ERROR - Failed to send email: Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-73dbf901143sm356034b3a.73 - gsmtp')
+2025-04-17 14:37:08 - INFO - Processing complete. 5/5 resumes processed.

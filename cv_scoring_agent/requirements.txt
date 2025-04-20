@@ -1,0 +1,15 @@
+python-dotenv
+openpyxl
+nltk
+spacy
+fuzzywuzzy
+PyPDF2
+python-docx
+scikit-learn
+pandas
+streamlit
+openai
+langchain
+docx2txt
+matplotlib
+plotly
