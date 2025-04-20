@@ -1,0 +1,12 @@
+python-dotenv
+openpyxl
+nltk
+spacy
+fuzzywuzzy
+python-dotenv
+PyPDF2
+python-docx
+scikit-learn
+pandas
+streamlit
+python-dotenv
